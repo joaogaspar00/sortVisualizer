@@ -1,3 +1,17 @@
+/******************************************************************
+Este projeto foi feito com o objetivo de aprender a mexer com a 
+livraria gráfica do C++ chamada SFML.
+
+Em caso de algum erro ou melhoria contactar:
+jpsg.joao.gaspar@gmail.com  
+
+This project was made with purpose of learn how to use c++
+graphical library SFML
+
+if you find any mistake or improement contact:
+jpsg.joao.gaspar@gmail.com
+*******************************************************************/
+
 /* Includes gerais */
 
 #include <iostream>
